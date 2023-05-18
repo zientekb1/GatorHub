@@ -1,0 +1,8 @@
+Name: Brendan Zientek
+Birthday: 08/15/99
+About: I am a Junior with dreams of being apart of the aerospace industry
+Clubs: ACM, CASHI
+Skills: Coding
+Classification: Senior
+Major: Computer Science
+Prospective Industry: Software Engineer

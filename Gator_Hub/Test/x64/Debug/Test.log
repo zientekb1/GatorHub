@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Scanning sources for module dependencies...
+  UserInter.cpp
+C:\Users\Brendan Zientek\Desktop\School\Software Engineering\Test\Test\UserInter.cpp(58): warning C4717: 'UserInterface::displayHomeScreen': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\Brendan Zientek\Desktop\School\Software Engineering\Test\Test\Login Account.h(74): warning C4715: 'LoginAccount::LoginMenu': not all control paths return a value
+  Test.vcxproj -> C:\Users\Brendan Zientek\Desktop\School\Software Engineering\Test\x64\Debug\GatorHub.exe

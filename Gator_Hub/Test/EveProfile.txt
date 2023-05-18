@@ -1,0 +1,8 @@
+Name: Eve Guenda
+Birthday: 03/29/2000
+About: As you know my name is Evelise and I am a computer science student senior at the Univeristy of Houston-Downtown. Currently, I am working as a user support assistant for the IT Department, where I provide technical support and guidance to resolve users' computer hardware and software problems. Recently, I decided to join research on interface Construction for Sound Meditation, which consists of creating a mobile app on the android studio where users can choose a sound from the database implemented in the app to meditate. Over the Years, I have built up a diverse range of skills and qualities that I believe are a match for this job description.
+Clubs: ASA, Scholars Academy
+Skills: Programming. writing, communication
+Classification: Senor
+Major: Computer Science
+Prospective Industry: Software Engineer
